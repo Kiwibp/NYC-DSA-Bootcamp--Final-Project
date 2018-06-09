@@ -1,0 +1,15 @@
+setup.py
+final_project/__init__.py
+final_project/items.py
+final_project/middlewares.py
+final_project/pipelines.py
+final_project/settings.py
+final_project/spiders/__init__.py
+final_project/spiders/craigslist.py
+final_project/spiders/facebook_marketplace.py
+final_project/spiders/letgo.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
